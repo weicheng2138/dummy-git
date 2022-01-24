@@ -13,3 +13,5 @@ test again for duummy pr
 Squash and merge 1
 
 Squash and merge 2
+
+Squash and merge 3
