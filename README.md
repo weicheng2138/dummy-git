@@ -9,3 +9,5 @@ how about this title?
 
 I did this myself with new self-pr branch
 test again for duummy pr
+
+Squash and merge 1
