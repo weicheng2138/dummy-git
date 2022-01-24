@@ -19,3 +19,5 @@ Squash and merge 3
 Squash and merge 4
 
 Rebase and merge 1
+
+Rebase and merge 2
