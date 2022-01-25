@@ -20,3 +20,5 @@ Squash and merge 3
 Squash and merge 4
 
 "No more rebase???"
+
+"Yes you are right"
